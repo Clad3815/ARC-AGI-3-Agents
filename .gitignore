@@ -19,3 +19,6 @@ tests/recordings/not-a-recording.txt
 
 # Long-term memory
 memory.db
+
+.venv
+agent-js/node_modules
